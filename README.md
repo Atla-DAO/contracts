@@ -1,2 +1,5 @@
-# contracts
-Smart contracts empowering Alta DAO's financial and incentive mechanisms
+# Atla DAO Smart Contracts
+
+## Structuring Alta DAO finance and incentive mechanisms
+\
+![Contract Diagram](./resources/diagram.png)
